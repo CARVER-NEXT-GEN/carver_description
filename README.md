@@ -4,7 +4,7 @@
 
 1. Clone this git in your **workspace->src**.
 ```bash
-git clone https://github.com/CARVER-NEXT-GEN/Carver_description.git
+git clone https://github.com/CARVER-NEXT-GEN/carver_description.git
 ```
 
 2. **Colcon build and source** your workspace
